@@ -1,5 +1,17 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+### Tech used in this project
+
+- [Next.js 14](https://nextjs.org/)
+- [TypeScript 5](https://www.typescriptlang.org/)
+- [Zustand](https://zustand-demo.pmnd.rs/) (for state management)
+- [Tailwind CSS 3.4.1](https://tailwindcss.com/)
+- [Clerk](https://clerk.com/) (for authentication)
+- [Drizzle](https://orm.drizzle.team/) (for database, an ORM tool)
+- [Neon](https://neon.tech/) (for PostgreSQL database)
+- [Hono.js](https://hono.dev/) (for node.js framework)
+- [ESLint 8](https://eslint.org/)
+
 ## Getting Started
 
 First, run the development server:
