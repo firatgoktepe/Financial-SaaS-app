@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ### Live Link: https://financial-app-fg.vercel.app/
 
-### Tech used in this project
+## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - [Next.js 14](https://nextjs.org/)
 - [TypeScript 5](https://www.typescriptlang.org/)
