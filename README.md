@@ -11,7 +11,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - [Clerk](https://clerk.com/) (for authentication)
 - [Drizzle](https://orm.drizzle.team/) (for database, an ORM tool)
 - [Neon](https://neon.tech/) (for PostgreSQL database)
-- [Hono.js](https://hono.dev/) (for node.js framework)
+- [Hono.js](https://hono.dev/) (for node.js framework / an Express alternative)
 - [ESLint 8](https://eslint.org/)
 
 ## Getting Started
